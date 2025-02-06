@@ -26,7 +26,7 @@ def main():
     builder.font_metric.x_height = 7
     builder.font_metric.cap_height = 9
 
-    builder.meta_info.version = '1.1.0'
+    builder.meta_info.version = '1.2.0'
     builder.meta_info.family_name = 'Vertical Sans'
     builder.meta_info.weight_name = WeightName.BOLD
     builder.meta_info.serif_style = SerifStyle.SANS_SERIF
